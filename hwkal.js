@@ -14,16 +14,16 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/HAMZXPRESET'
 global.ig = 'https://www.instagram.com/mhmdryhn.1'
-global.mygc = 'wa.me/6285714170944'
+global.mygc = 'wa.me/6285893481599'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
 global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
-global.email = 'denyp857@gmail.com'
-global.region = 'indonesia'
+global.email = 'ryhnnganzz@gmail.com'
+global.region = 'russia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'hmzz ofc' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Luwak Store' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Luwak Store' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'hmzzz but' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'hmzz ataker' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'hmzz ataker' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
 global.owner = ['6285893481599']
